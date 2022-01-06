@@ -36,6 +36,20 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 ## AMR-to-Text Generation
 
+
+* Structural Adapters in Pretrained Language Models for AMR-to-Text Generation. **EMNLP2021**
+* Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation. **EMNLP2021**
+* Avoiding Overlap in Data Augmentation for AMR-to-Text Generation. **ACL2021**
+* DART: Open-Domain Structured Data Record to Text Generation. **NAACL2021**
+* Multilingual AMR-to-Text Generation. **EMNLP2020**
+* Online Back-Parsing for AMR-to-Text Generation.  **EMNLP2020**
+* Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks. **ACL2020**
+* GPT-too: A language-model-first approach for AMR-to-text generation.  **ACL2020**
+* AMR-To-Text Generation with Graph Transformer. **TACL2020**
+* Graph Transformer for Graph-to-Sequence Learning.  **AAAI2020**
+* Heterogeneous Graph Transformer for Graph-to-Sequence Learning.  **ACL2020**
+
+
 ## Applications using AMR
 
 * A Semantics-aware Transformer Model of Relation Linking for Knowledge Base Question Answering. **ACL2021**
