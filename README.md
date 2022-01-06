@@ -48,6 +48,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * Avoiding Overlap in Data Augmentation for AMR-to-Text Generation. **ACL2021**
 * Stage-wise Fine-tuning for Graph-to-Text Generation. **ACL2021**
 * Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem. **ACL2021**
+* XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation.  **ACL2021**
 * DART: Open-Domain Structured Data Record to Text Generation. **NAACL2021**
 * Multilingual AMR-to-Text Generation. **EMNLP2020**
 * Online Back-Parsing for AMR-to-Text Generation.  **EMNLP2020**
