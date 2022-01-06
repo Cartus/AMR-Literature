@@ -50,6 +50,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * AMR-To-Text Generation with Graph Transformer. **TACL2020**
 * Graph Transformer for Graph-to-Sequence Learning.  **AAAI2020**
 * Heterogeneous Graph Transformer for Graph-to-Sequence Learning.  **ACL2020**
+* structural information preserving for graph-to-text generation.  **ACL2020**
 
 
 ## Applications using AMR
