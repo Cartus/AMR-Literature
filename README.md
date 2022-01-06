@@ -5,7 +5,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 ## AMR Parsing
 
 * A differentiable relaxation of graph segmentation and alignment for amr parsing. 
-[Paper](https://arxiv.org/pdf/2010.12676.pdf)
+[[Paper]](https://arxiv.org/pdf/2010.12676.pdf)
 **EMNLP2021**
 * Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing. **EMNLP2021**
 * Stacked AMR Parsing with Silver Data. **Findings ACL2021**
@@ -16,7 +16,11 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * Fast semantic parsing with well-typedness guarantees. **EMNLP2020**
 * Pushing the Limits of AMR Parsing with Self-Learning. **Findings EMNLP2020**
 * Transition-based Parsing with Stack-Transformers. **Findings EMNLP2020**
-* AMR Parsing via Graph-Sequence Iterative Inference. **ACL2020**
+* AMR Parsing via Graph-Sequence Iterative Inference. 
+[[Paper]](https://arxiv.org/pdf/2010.12676.pdf)
+[[Code]](https://github.com/jcyk/AMR-gs)
+[[Bib]](https://aclanthology.org/2020.acl-main.119.bib)
+**ACL2020**
 * Core Semantic First: A Top-down Approach for AMR Parsing. **EMNLP2019**
 * Broad-coverage semantic parsing as transduction. **EMNLP2019**
 * AMR parsing as sequence-to-graph transduction. **ACL2019**
