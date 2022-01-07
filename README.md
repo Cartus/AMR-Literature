@@ -8,7 +8,10 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * A differentiable relaxation of graph segmentation and alignment for amr parsing. 
 [[Paper]](https://arxiv.org/pdf/2010.12676.pdf)
 **EMNLP2021**
-* Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing. **EMNLP2021**
+* Structure-aware Fine-tuning of Sequence-to-sequence Transformers for Transition-based AMR Parsing. 
+[[Paper]]()
+[[Code]]()
+**EMNLP2021**
 * Stacked AMR Parsing with Silver Data. **Findings ACL2021**
 * Ensembling Graph Predictions for AMR Parsing. **NeurIPS2021**
 * AMR parsing with action-pointer transformer. **NAACL2021**
