@@ -60,6 +60,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * structural information preserving for graph-to-text generation.  **ACL2020**
 * Generalized Shortest-Paths Encoders for AMR-to-Text Generation.  **COLING2020**
 * Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR.  **EACL2020**
+* Better AMR-To-Text Generation with Graph Structure Reconstruction.  **IJCAI2020**
 * Modeling Graph Structure in Transformer for Better AMR-to-Text Generation.   **EMNLP2019**
 * Enhancing AMR-to-Text Generation with Dual Graph Representations.  **EMNLP2019**
 
