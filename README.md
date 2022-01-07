@@ -4,6 +4,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 ## AMR Parsing
 
+### Conference & Journal Paper
 * A differentiable relaxation of graph segmentation and alignment for amr parsing. 
 [[Paper]](https://arxiv.org/pdf/2010.12676.pdf)
 **EMNLP2021**
@@ -11,7 +12,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * Stacked AMR Parsing with Silver Data. **Findings ACL2021**
 * Ensembling Graph Predictions for AMR Parsing. **NeurIPS2021**
 * AMR parsing with action-pointer transformer. **NAACL2021**
-* One SPRING to Rule Them Both: Symmetric AMR Semantic Parsing and Generation without a Complex Pipeline. AAAI2021
+* One SPRING to Rule Them Both: Symmetric AMR Semantic Parsing and Generation without a Complex Pipeline. **AAAI2021
 * Improving AMR Parsing with Sequence-to-Sequence Pre-training. **EMNLP2020**
 * Fast semantic parsing with well-typedness guarantees. **EMNLP2020**
 * Pushing the Limits of AMR Parsing with Self-Learning. **Findings EMNLP2020**
@@ -30,45 +31,44 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * AMR parsing using stack-LSTMs. **EMNLP2017**
 * Getting the most out of amr parsing. **EMNLP2017**
 * Robust incremental neural semantic graph parsing. **ACL2017**
-* Neural AMR: Sequence-to-Sequence Models for Parsing and Generation. ACL2017
-* A constrained graph algebra for semantic parsing with AMRs. IWCS2017
-* Oxford at SemEval-2017 Task 9: Neural AMR Parsing with Pointer-Augmented Attention. SemEval2017
-* 	SemEval-2017 Task 9: Abstract Meaning Representation Parsing and Generation. SemEval2017
-* RIGOTRIO at SemEval-2017 Task 9: Combining Machine Learning and Grammar Engineering for AMR Parsing and Generatio. SemEval2017
-* Neural Shift-Reduce CCG Semantic Parsing. EMNLP2016
-* AMR Parsing with an Incremental Joint Model. EMNLP2016
-* Noise Reduction and Targeted Exploration in Imitation Learning for Abstract Meaning Representation Parsing. ACL2016
+* Neural AMR: Sequence-to-Sequence Models for Parsing and Generation. **ACL2017**
+* A constrained graph algebra for semantic parsing with AMRs. **IWCS2017**
+* Neural Shift-Reduce CCG Semantic Parsing. **EMNLP2016**
+* AMR Parsing with an Incremental Joint Model. **EMNLP2016**
+* Noise Reduction and Targeted Exploration in Imitation Learning for Abstract Meaning Representation Parsing. **ACL2016**
 * An incremental parser for abstract meaning representation. **EACL2016**
-* Generation from Abstract Meaning Representation using Tree Transducers. NAACL2016
-* Between a Rock and a Hard Place -- Uniform Parsing for Hyperedge Replacement DAG Grammars. LATA 2016
-* CMU at SemEval-2016 Task 8: Graph-based AMR Parsing with Infinite Ramp Loss. SemEval2016
-* UCL+Sheffield at SemEval-2016 Task 8: Imitation learning for AMR parsing with an alpha-bound. SemEval2016
-* CAMR at SemEval-2016 Task 8: An Extended Transition-based AMR Parser. SemEval2016
-* CU-NLP at SemEval-2016 Task 8: AMR Parsing using LSTM-based Recurrent Neural Networks. SemEval2016
-* ICL-HD at SemEval-2016 Task 8: Meaning Representation Parsing - Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network. SemEval2016
-* CLIP@UMD at SemEval-2016 Task 8: Parser for Abstract Meaning Representation using Learning to Search. SemEval2016
-* UofR at SemEval-2016 Task 8: Learning Synchronous Hyperedge Replacement Grammar for AMR Parsing. SemEval2016
-* M2L at SemEval-2016 Task 8: AMR Parsing with Neural Networks. SemEval2016
-* RIGA at SemEval-2016 Task 8: Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy. SemEval2016
-* Broad-coverage CCG Semantic Parsing with AMR. EMNLP2015
-* Using Syntax-Based Machine Translation to Parse English into Abstract Meaning Representation. EMNLP2015
-* A Synchronous Hyperedge Replacement Grammar based approach for AMR parsing. CoNLL2015
-* Robust Subgraph Generation Improves Abstract Meaning Representation Parsing. ACL2015
-* Graph parsing with s-graph grammars. ACL2015
-* Boosting Transition-based AMR Parsing with Refined Actions and Auxiliary Analyzers. ACL2015
+* Generation from Abstract Meaning Representation using Tree Transducers. **NAACL2016**
+* Between a Rock and a Hard Place -- Uniform Parsing for Hyperedge Replacement DAG Grammars. **LATA 2016**
+* Broad-coverage CCG Semantic Parsing with AMR. **EMNLP2015**
+* Using Syntax-Based Machine Translation to Parse English into Abstract Meaning Representation. **EMNLP2015**
+* A Synchronous Hyperedge Replacement Grammar based approach for AMR parsing. **CoNLL2015**
+* Robust Subgraph Generation Improves Abstract Meaning Representation Parsing. **ACL2015**
+* Graph parsing with s-graph grammars. **ACL2015**
+* Boosting Transition-based AMR Parsing with Refined Actions and Auxiliary Analyzers. **ACL2015**
 * A transition-based algorithm for AMR parsing. **NAACL2015**
-* An AMR parser for English, French, German, Spanish and Japanese and a new AMR-annotated corpus. Demo NAACL2015
-* 
+* A Discriminative Graph-Based Parser for the Abstract Meaning Representation. **ACL2014**
 
+### Shared Task Paper
 
-* A Discriminative Graph-Based Parser for the Abstract Meaning Representation. ACL2014
-
+* Oxford at SemEval-2017 Task 9: Neural AMR Parsing with Pointer-Augmented Attention. **SemEval2017**
+* SemEval-2017 Task 9: Abstract Meaning Representation Parsing and Generation. **SemEval2017**
+* RIGOTRIO at SemEval-2017 Task 9: Combining Machine Learning and Grammar Engineering for AMR Parsing and Generatio. **SemEval2017**
+* CMU at SemEval-2016 Task 8: Graph-based AMR Parsing with Infinite Ramp Loss. **SemEval2016**
+* UCL+Sheffield at SemEval-2016 Task 8: Imitation learning for AMR parsing with an alpha-bound. **SemEval2016**
+* CAMR at SemEval-2016 Task 8: An Extended Transition-based AMR Parser. **SemEval2016**
+* CU-NLP at SemEval-2016 Task 8: AMR Parsing using LSTM-based Recurrent Neural Networks. **SemEval2016**
+* ICL-HD at SemEval-2016 Task 8: Meaning Representation Parsing - Augmenting AMR Parsing with a Preposition Semantic Role Labeling Neural Network. **SemEval2016**
+* CLIP@UMD at SemEval-2016 Task 8: Parser for Abstract Meaning Representation using Learning to Search. **SemEval2016**
+* UofR at SemEval-2016 Task 8: Learning Synchronous Hyperedge Replacement Grammar for AMR Parsing. **SemEval2016**
+* M2L at SemEval-2016 Task 8: AMR Parsing with Neural Networks. **SemEval2016**
+* RIGA at SemEval-2016 Task 8: Impact of Smatch Extensions and Character-Level Neural Translation on AMR Parsing Accuracy. **SemEval2016**
 
 ### Multilingual/Cross-Lingual AMR Parsing
 
 * Multilingual AMR Parsing with Noisy Knowledge Distillation. **Findings EMNLP2021**
 * Making Better Use of Bilingual Information for Cross-Lingual AMR Parsing. **Findings ACL2021**
 * Translate, then Parse! A strong baseline for Cross-Lingual AMR Parsing. **IWPT2021**
+* An AMR parser for English, French, German, Spanish and Japanese and a new AMR-annotated corpus. **Demo NAACL2015**
 
 ## AMR-to-Text Generation
 
