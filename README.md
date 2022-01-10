@@ -267,6 +267,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * DART: Open-Domain Structured Data Record to Text Generation. **NAACL2021**
 * Multilingual AMR-to-Text Generation. **EMNLP2020**
 * Online Back-Parsing for AMR-to-Text Generation.  **EMNLP2020**
+* Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation. **EMNLP2020**
 * Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks. **ACL2020**
 * GPT-too: A language-model-first approach for AMR-to-text generation.  **ACL2020**
 * AMR-To-Text Generation with Graph Transformer. **TACL2020**
@@ -278,6 +279,16 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * Better AMR-To-Text Generation with Graph Structure Reconstruction.  **IJCAI2020**
 * Modeling Graph Structure in Transformer for Better AMR-to-Text Generation.   **EMNLP2019**
 * Enhancing AMR-to-Text Generation with Dual Graph Representations.  **EMNLP2019**
+* Structural Neural Encoders for AMR-to-text Generation.  **NAACL2019**
+* Factorising AMR generation through syntax.  **NAACL2019**
+* Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning.  **TACL2019**
+* Deep Graph Convolutional Encoders for Structured Data to Text Generation.  **INLG2018**
+* A Graph-to-Sequence Model for AMR-to-Text Generation.  **ACL2018**
+* Graph-to-Sequence Learning using Gated Graph Neural Networks.  **ACL2018**
+* Neural AMR: Sequence-to-Sequence Models for Parsing and Generation.  **ACL2017**
+* AMR-to-text Generation with Synchronous Node Replacement Grammar.  **ACL2017**
+* AMR-to-text generation as a Traveling Salesman Problem.  **EMNLP2016**
+* Generation from Abstract Meaning Representation using Tree Transducers.  **NAACL2016**
 
 ## Applications using AMR
 
