@@ -259,37 +259,133 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 
 * Structural Adapters in Pretrained Language Models for AMR-to-Text Generation. **EMNLP2021**
+[[Paper]](https://arxiv.org/abs/2103.09120)
+[[Code]](https://github.com/ukplab/structadapt)
+[[Bib]]()
 * Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation. **EMNLP2021**
+[[Paper]](https://arxiv.org/abs/2109.03808)
+[[Code]](https://github.com/leoribeiro/m-AMR2Text?ref=https://githubhelp.com)
+[[Bib]]()
 * Avoiding Overlap in Data Augmentation for AMR-to-Text Generation. **ACL2021**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Stage-wise Fine-tuning for Graph-to-Text Generation. **ACL2021**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem. **ACL2021**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation.  **ACL2021**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * DART: Open-Domain Structured Data Record to Text Generation. **NAACL2021**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Multilingual AMR-to-Text Generation. **EMNLP2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Online Back-Parsing for AMR-to-Text Generation.  **EMNLP2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation. **EMNLP2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks. **ACL2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * GPT-too: A language-model-first approach for AMR-to-text generation.  **ACL2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * AMR-To-Text Generation with Graph Transformer. **TACL2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Graph Transformer for Graph-to-Sequence Learning.  **AAAI2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Heterogeneous Graph Transformer for Graph-to-Sequence Learning.  **ACL2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * structural information preserving for graph-to-text generation.  **ACL2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Generalized Shortest-Paths Encoders for AMR-to-Text Generation.  **COLING2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR.  **EACL2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Better AMR-To-Text Generation with Graph Structure Reconstruction.  **IJCAI2020**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Modeling Graph Structure in Transformer for Better AMR-to-Text Generation.   **EMNLP2019**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Enhancing AMR-to-Text Generation with Dual Graph Representations.  **EMNLP2019**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Structural Neural Encoders for AMR-to-text Generation.  **NAACL2019**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Factorising AMR generation through syntax.  **NAACL2019**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning.  **TACL2019**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Deep Graph Convolutional Encoders for Structured Data to Text Generation.  **INLG2018**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * A Graph-to-Sequence Model for AMR-to-Text Generation.  **ACL2018**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Graph-to-Sequence Learning using Gated Graph Neural Networks.  **ACL2018**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Neural AMR: Sequence-to-Sequence Models for Parsing and Generation.  **ACL2017**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * AMR-to-text Generation with Synchronous Node Replacement Grammar.  **ACL2017**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * AMR-to-text generation as a Traveling Salesman Problem.  **EMNLP2016**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Generation from Abstract Meaning Representation using Tree Transducers.  **NAACL2016**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Generating English from Abstract Meaning Representations.  **INLG2016**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 
 ## Applications using AMR
 
