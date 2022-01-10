@@ -263,130 +263,161 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 [[Code]](https://github.com/ukplab/structadapt)
 [[Bib]]()
 **EMNLP2021**
-* Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation. **EMNLP2021**
+* Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation. 
 [[Paper]](https://arxiv.org/abs/2109.03808)
 [[Code]](https://github.com/leoribeiro/m-AMR2Text?ref=https://githubhelp.com)
 [[Bib]]()
-* Avoiding Overlap in Data Augmentation for AMR-to-Text Generation. **ACL2021**
+**EMNLP2021**
+* Avoiding Overlap in Data Augmentation for AMR-to-Text Generation. 
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Stage-wise Fine-tuning for Graph-to-Text Generation. **ACL2021**
+**ACL2021**
+* Stage-wise Fine-tuning for Graph-to-Text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem. **ACL2021**
+**ACL2021**
+* Generating Landmark Navigation Instructions from Maps as a Graph-to-Text Problem. 
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation.  **ACL2021**
+**ACL2021**
+* XLPT-AMR: Cross-Lingual Pre-Training via Multi-Task Learning for Zero-Shot AMR Parsing and Text Generation.  
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* DART: Open-Domain Structured Data Record to Text Generation. **NAACL2021**
+**ACL2021**
+* DART: Open-Domain Structured Data Record to Text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Multilingual AMR-to-Text Generation. **EMNLP2020**
+**NAACL2021**
+* Multilingual AMR-to-Text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Online Back-Parsing for AMR-to-Text Generation.  **EMNLP2020**
+**EMNLP2020**
+* Online Back-Parsing for AMR-to-Text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation. **EMNLP2020**
+**EMNLP2020**
+* Lightweight, Dynamic Graph Convolutional Networks for AMR-to-Text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks. **ACL2020**
+**EMNLP2020**
+* Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* GPT-too: A language-model-first approach for AMR-to-text generation.  **ACL2020**
+**ACL2020**
+* GPT-too: A language-model-first approach for AMR-to-text generation. 
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* AMR-To-Text Generation with Graph Transformer. **TACL2020**
+**ACL2020**
+* AMR-To-Text Generation with Graph Transformer.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Graph Transformer for Graph-to-Sequence Learning.  **AAAI2020**
+**TACL2020**
+* Graph Transformer for Graph-to-Sequence Learning.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Heterogeneous Graph Transformer for Graph-to-Sequence Learning.  **ACL2020**
+**AAAI2020**
+* Heterogeneous Graph Transformer for Graph-to-Sequence Learning. 
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* structural information preserving for graph-to-text generation.  **ACL2020**
+**ACL2020**
+* structural information preserving for graph-to-text generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Generalized Shortest-Paths Encoders for AMR-to-Text Generation.  **COLING2020**
+**ACL2020**
+* Generalized Shortest-Paths Encoders for AMR-to-Text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR.  **EACL2020**
+**COLING2020**
+* Towards a Decomposable Metric for Explainable Evaluation of Text Generation from AMR.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Better AMR-To-Text Generation with Graph Structure Reconstruction.  **IJCAI2020**
+**EACL2020**
+* Better AMR-To-Text Generation with Graph Structure Reconstruction.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Modeling Graph Structure in Transformer for Better AMR-to-Text Generation.   **EMNLP2019**
+**IJCAI2020**
+* Modeling Graph Structure in Transformer for Better AMR-to-Text Generation. 
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Enhancing AMR-to-Text Generation with Dual Graph Representations.  **EMNLP2019**
+**EMNLP2019**
+* Enhancing AMR-to-Text Generation with Dual Graph Representations.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Structural Neural Encoders for AMR-to-text Generation.  **NAACL2019**
+**EMNLP2019**
+* Structural Neural Encoders for AMR-to-text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Factorising AMR generation through syntax.  **NAACL2019**
+**NAACL2019**
+* Factorising AMR generation through syntax.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning.  **TACL2019**
+**NAACL2019**
+* Densely Connected Graph Convolutional Networks for Graph-to-Sequence Learning.  
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Deep Graph Convolutional Encoders for Structured Data to Text Generation.  **INLG2018**
+**TACL2019**
+* Deep Graph Convolutional Encoders for Structured Data to Text Generation. 
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* A Graph-to-Sequence Model for AMR-to-Text Generation.  **ACL2018**
+**INLG2018**
+* A Graph-to-Sequence Model for AMR-to-Text Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Graph-to-Sequence Learning using Gated Graph Neural Networks.  **ACL2018**
+**ACL2018**
+* Graph-to-Sequence Learning using Gated Graph Neural Networks.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Neural AMR: Sequence-to-Sequence Models for Parsing and Generation.  **ACL2017**
+**ACL2018**
+* Neural AMR: Sequence-to-Sequence Models for Parsing and Generation.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* AMR-to-text Generation with Synchronous Node Replacement Grammar.  **ACL2017**
+**ACL2017**
+* AMR-to-text Generation with Synchronous Node Replacement Grammar.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* AMR-to-text generation as a Traveling Salesman Problem.  **EMNLP2016**
+**ACL2017**
+* AMR-to-text generation as a Traveling Salesman Problem.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Generation from Abstract Meaning Representation using Tree Transducers.  **NAACL2016**
+**EMNLP2016**
+* Generation from Abstract Meaning Representation using Tree Transducers.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
-* Generating English from Abstract Meaning Representations.  **INLG2016**
+**NAACL2016**
+* Generating English from Abstract Meaning Representations.
 [[Paper]]()
 [[Code]]()
 [[Bib]]()
+**INLG2016**
 
 ## Applications using AMR
 
