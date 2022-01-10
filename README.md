@@ -259,6 +259,9 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 
 * Structural Adapters in Pretrained Language Models for AMR-to-Text Generation. **EMNLP2021**
+[[Paper]]()
+[[Code]]()
+[[Bib]]()
 * Smelting Gold and Silver for Improved Multilingual AMR-to-Text Generation. **EMNLP2021**
 * Avoiding Overlap in Data Augmentation for AMR-to-Text Generation. **ACL2021**
 * Stage-wise Fine-tuning for Graph-to-Text Generation. **ACL2021**
