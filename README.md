@@ -289,6 +289,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * AMR-to-text Generation with Synchronous Node Replacement Grammar.  **ACL2017**
 * AMR-to-text generation as a Traveling Salesman Problem.  **EMNLP2016**
 * Generation from Abstract Meaning Representation using Tree Transducers.  **NAACL2016**
+* Generating English from Abstract Meaning Representations.  **INLG2016**
 
 ## Applications using AMR
 
