@@ -4,6 +4,8 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 ## AMR Parsing
 
+![Parsing](figures/parsing.png)
+
 ### Conference & Journal Paper
 * A differentiable relaxation of graph segmentation and alignment for amr parsing. 
 [[Paper]](https://arxiv.org/pdf/2010.12676.pdf)
@@ -257,6 +259,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 ## AMR-to-Text Generation
 
+![Generation](figures/generation.png)
 
 * Structural Adapters in Pretrained Language Models for AMR-to-Text Generation. 
 [[Paper]](https://arxiv.org/abs/2103.09120)
