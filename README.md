@@ -4,8 +4,6 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 ## AMR Parsing
 
-![Parsing](figures/parsing.pdf)
-
 ### Conference & Journal Paper
 * A differentiable relaxation of graph segmentation and alignment for amr parsing. 
 [[Paper]](https://arxiv.org/pdf/2010.12676.pdf)
@@ -258,8 +256,6 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 * An AMR parser for English, French, German, Spanish and Japanese and a new AMR-annotated corpus. **Demo NAACL2015**
 
 ## AMR-to-Text Generation
-
-![Generation](figures/generation.png)
 
 * Structural Adapters in Pretrained Language Models for AMR-to-Text Generation. 
 [[Paper]](https://arxiv.org/abs/2103.09120)
