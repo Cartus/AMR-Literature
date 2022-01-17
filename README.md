@@ -4,7 +4,7 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 ## AMR Parsing
 
-![Parsing](figures/parsing.png){width=200px}
+![Parsing](figures/parsing.png){width=100px}
 
 ### Conference & Journal Paper
 * A differentiable relaxation of graph segmentation and alignment for amr parsing. 
