@@ -4,6 +4,8 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 
 ## AMR Parsing
 
+![Parsing](figures/parsing.png)
+
 ### Conference & Journal Paper
 * A differentiable relaxation of graph segmentation and alignment for amr parsing. 
 [[Paper]](https://arxiv.org/pdf/2010.12676.pdf)
@@ -249,6 +251,8 @@ This repo contains relevant resources related to AMR (Abstract Meaning Represent
 **SemEval2016**
 
 ### Multilingual/Cross-Lingual AMR Parsing
+
+![Generation](figures/generation.png)
 
 * Multilingual AMR Parsing with Noisy Knowledge Distillation. **Findings EMNLP2021**
 * Making Better Use of Bilingual Information for Cross-Lingual AMR Parsing. **Findings ACL2021**
